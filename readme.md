@@ -28,3 +28,9 @@ Auto-remediation: AI suggests and even applies fixes (e.g., increasing memory li
 No need for extensive labeled training data.
 Can generate human-like explanations & solutions.
 Adaptable to new/unseen failure patterns.
+
+
+
+# 3. Large Language Model
+A Large Language Model (LLM) is an advanced AI system trained on vast amounts of text data to understand, generate, and process human language. These models use deep learning techniques, particularly transformers (like GPT, BERT, or LLaMA), to recognize patterns, predict words, and generate human-like responses.
+
